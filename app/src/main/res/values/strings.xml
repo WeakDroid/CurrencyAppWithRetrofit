@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CurrencyApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="splash">Splash</string>
+    <string name="name">Название:</string>
+    <string name="buy">Закупка</string>
+    <string name="sell">Продажа</string>
+    <string name="usd">USD</string>
+    <string name="_8_21">8.21</string>
+    <string name="_8_42">8.42</string>
+    <string name="maaaaaark">Maaaaaark</string>
+    <string name="buy_some_currency">Buy some currency</string>
+</resources>
